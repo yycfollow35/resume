@@ -1,0 +1,25 @@
+.subject{margin:10px 2px;}
+.info{margin:8px 2px 8px 2px;font-weight:bold;}
+.name{margin-left:2px;margin-right:20px;float:left;}
+.gender{margin-left:2px;margin-right:20px;float:left;}
+.position{margin-left:2px;margin-right:20px;float:left;}
+.forclear{height:6px;clear:both;}
+.contact{margin:8px 2px;font-weight:bold;}
+.contact1{margin-left:2px;margin-right:20px;float:left;}
+.contact2{margin-left:2px;margin-right:20px;float:left;}
+.contact3{margin-left:2px;margin-right:20px;float:left;}
+.ability{margin:8px 2px;font-weight:bold;}
+.techability{margin:2px;}
+.techdetail{margin:2px 2px 6px 2px;}
+.wholability{margin:2px;}
+.wholedetail{margin:2px;}
+.education{margin:8px 2px;font-weight:bold;}
+.benke{margin:2px;}
+.benkedetail{margin:2px 2px 6px 2px;}
+.master{margin:2px;}
+.masterdetail{margin:2px;}
+.project{margin:8px 2px;font-weight:bold;}
+.xiaodu{margin:2px;}
+.xiaodudetail{margin:2px 2px 6px 2px;}
+.SANDoc{margin:2px;}
+.SANDocdetail{margin:2px;}

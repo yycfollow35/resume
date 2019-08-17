@@ -1,0 +1,39 @@
+.subject{margin:0px;height:90px;line-height:90px;padding-left:2%;font-size:30px;color:white;background-color:696464;}
+.info{height:140px;line-height:140px;width:140px;float:left;text-align:center;margin:0 0 2px 0;font-size:25px;font-weight:bold;background-color:d7d1c9;}
+.coverinfo1{height:142px;border-width:0 1px 1px 0;border-style:solid;border-color:d7d1c9;margin:0;}
+.coverinfo{margin:0px 0px 0px 25px;padding-top:25px;}
+.covercontact{height:142px;border-width:0 1px 1px 0;border-style:solid;border-color:d7d1c9;margin:0;}
+.name{margin-left:2px;margin-right:20px;float:left;font-size:25px;padding-left:25px;}
+.gender{margin-left:2px;margin-right:20px;float:left;font-size:25px;}
+.position{margin-left:2px;margin-right:20px;float:left;font-size:25px;}
+.covercontact1{margin:0px 0px 0px 25px;padding-top:25px;}
+.contact{height:140px;line-height:140px;width:140px;text-align:center;margin:0 0 2px 0;font-size:25px;font-weight:bold;background-color:d7d1c9;float:left;}
+.contact1{margin-left:2px;margin-right:20px;float:left;font-size:25px;padding-left:25px;}
+.contact2{margin-left:2px;margin-right:20px;float:left;font-size:25px;}
+.contact2 a{color:blue;}
+.contact3{margin-left:2px;margin-right:20px;float:left;font-size:25px;}
+.contact3 a{color:blue;}
+.coverability{height:142px;border-width:0 1px 1px 0;border-style:solid;border-color:d7d1c9;margin:0;}
+.ability{height:140px;line-height:140px;width:140px;float:left;text-align:center;margin:0 0 2px 0;font-size:25px;font-weight:bold;background-color:d7d1c9;}
+#ability{float:left;margin:0px 0px 0px 25px;padding-top:25px;}
+.techability{margin-left:2px;font-weight:bold;font-size:25px;float:left;}
+.techdetail{margin-left:0;font-size:25px;float:left;}
+#ability1{clear:both;}
+.wholability{margin-left:2px;font-weight:bold;font-size:25px;float:left;}
+.wholedetail{margin-left:0px;font-size:25px;float:left;}
+.education{height:140px;line-height:140px;width:140px;float:left;text-align:center;margin:0 0 2px 0;font-size:25px;font-weight:bold;background-color:d7d1c9;}
+.covereducation{height:142px;border-width:0 1px 1px 0;border-style:solid;border-color:d7d1c9;margin:0;}
+.by{float:left;margin:0px 0px 0px 25px;padding-top:25px;}
+.y{clear:both;}
+.benke{margin:2px;font-weight:bold;font-size:25px;float:left;}
+.benkedetail{margin:2px 2px 6px 2px;font-size:25px;float:left;}
+.master{margin:2px;font-weight:bold;font-size:25px;float:left;}
+.masterdetail{margin:2px;font-size:25px;float:left;}
+.project{height:140px;line-height:140px;width:140px;float:left;text-align:center;margin:0 0 2px 0;font-size:25px;font-weight:bold;background-color:d7d1c9;}
+.coverproject{height:142px;border-width:0 1px 1px 0;border-style:solid;border-color:d7d1c9;margin:0;}
+.ds{float:left;margin:0px 0px 0px 25px;padding-top:25px;}
+.s{clear:both;}
+.xiaodu{margin:2px;font-weight:bold;font-size:25px;float:left;}
+.xiaodudetail{margin:2px 2px 6px 2px;font-size:25px;float:left;}
+.doc{margin:2px;font-weight:bold;font-weight:bold;font-size:25px;float:left;}
+.docdetail{margin:2px;font-size:25px;float:left;}
